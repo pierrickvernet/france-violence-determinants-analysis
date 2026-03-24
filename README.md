@@ -15,4 +15,4 @@ This project is an econometric study aimed at identifying and quantifying the so
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
 
 ## Results
-The model highlights the impact of [insère ici un résultat clé, ex: unemployment rate or income inequality] on regional safety levels, providing a data-driven basis for strategic decision-making.
+The model highlights the impact of ... on regional safety levels, providing a data-driven basis for strategic decision-making.
